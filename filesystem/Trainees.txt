@@ -1,0 +1,6 @@
+T101:Nakul:OS:92
+T102:Sarah:Networking:88
+T103:Alex:Database:75
+T104:Lisa:Programming:95
+T105:John:Web Development:85
+T106:Sohn:Web techno:75
